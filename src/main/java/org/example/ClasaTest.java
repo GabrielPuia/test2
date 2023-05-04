@@ -5,8 +5,11 @@ public class ClasaTest {
 
     private double no;
 
-    public ClasaTest(int amount, double no) {
+    private int id;
+
+    public ClasaTest(int amount, double no, int id) {
         this.amount = amount;
         this.no = no;
+        this.id = id;
     }
 }
