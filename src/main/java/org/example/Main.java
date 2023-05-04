@@ -13,5 +13,7 @@ public class Main {
             System.out.println("Test = "+i);
         }
 
+        System.out.println("ceva test pentru branch ul personal");
+
     }
 }
